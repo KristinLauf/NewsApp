@@ -1,0 +1,63 @@
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\Skilaverkefni3.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\Skilaverkefni3.pdb
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\EntityFramework.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\System.Web.Providers.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\EntityFramework.xml
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\obj\Debug\Skilaverkefni3.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\obj\Debug\Skilaverkefni3.pdb
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\6 -vika 8\NewsApp\Skilaverkefni3\obj\Debug\Skilaverkefni3.csprojResolveAssemblyReference.cache
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\Skilaverkefni3.dll
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\Skilaverkefni3.pdb
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\EntityFramework.dll
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.Helpers.dll
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.Mvc.dll
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.Providers.dll
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.Razor.dll
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.dll
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\EntityFramework.xml
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.Helpers.xml
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.Mvc.xml
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.Razor.xml
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.xml
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\obj\Debug\Skilaverkefni3.csprojResolveAssemblyReference.cache
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\obj\Debug\Skilaverkefni3.dll
+C:\Users\Olafurj\Downloads\NewsApp\NewsApp\Skilaverkefni3\obj\Debug\Skilaverkefni3.pdb
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\Skilaverkefni3.dll
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\Skilaverkefni3.pdb
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.Providers.dll
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\obj\Debug\Skilaverkefni3.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\obj\Debug\Skilaverkefni3.dll
+C:\Users\Lenovo\Desktop\Kristin\NewsApp\NewsApp\Skilaverkefni3\obj\Debug\Skilaverkefni3.pdb

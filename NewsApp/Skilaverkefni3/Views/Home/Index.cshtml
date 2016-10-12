@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Skilaverkefni3.News>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+
+
+<h2>Nýjustu fréttir</h2>
+
+@foreach (var item in Model)
+{
+    
+    <div id="frett">
+        <h2 id="titill">@Html.ActionLink(item.heading, "Edit", new { id = item.Id })</h2>
+        <p id="timi">
+            @item.date
+        </p>
+        <p id="texti">
+            @item.body
+        </p>
+    </div>
+}
